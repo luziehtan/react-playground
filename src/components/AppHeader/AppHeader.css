@@ -1,11 +1,7 @@
 .AppHeader {
-  background: var(--color-primary);
-  color: var(--color-white);
-  padding: 12px;
-}
-
-.AppHeader h1 {
-  font-weight: 400;
-  font-size: 1.2rem;
+  background: orchid;
+  padding: 5px;
+  border: 2px dashed black;
+  border-radius: 8px;
   text-align: center;
 }

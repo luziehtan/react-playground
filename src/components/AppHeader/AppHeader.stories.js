@@ -6,4 +6,4 @@ export default {
   component: AppHeader,
 }
 
-export const JS = () => <AppHeader title="Hi Storybook!" />
+export const defaultHeader = () => <AppHeader title="Hi Storybook" />

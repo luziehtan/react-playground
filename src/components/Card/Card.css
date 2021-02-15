@@ -1,0 +1,22 @@
+.Card {
+  padding: 5px;
+  background: plum;
+  color: darkviolet;
+  margin: 5px;
+  border: 1px solid orchid;
+  border-radius: 8px;
+  text-align: center;
+}
+
+.Card__img {
+  border-radius: 50px;
+}
+
+.Card__button--box {
+  width: 300px;
+  text-align: center;
+}
+
+.Card__button {
+  background: cornflowerblue;
+}
